@@ -879,6 +879,14 @@ MonoBehaviour:
   EXPTOTAL: {fileID: 1407418570}
   HPmaximo: 100
   EXPmaximo: 1000
+  hpTrembleForce: 6
+  hpTrembleDuration: 0.15
+  hpTrembleDirection: {x: 0, y: 1}
+  expMoveForce: 5
+  expMoveDuration: 0.3
+  expMoveDirection: {x: 0, y: 1}
+  yellowHPColor: {r: 1, g: 0.74449116, b: 0.015686274, a: 1}
+  redHPColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &1271999503
 GameObject:
   m_ObjectHideFlags: 0
